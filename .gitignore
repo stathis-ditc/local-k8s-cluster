@@ -1,0 +1,6 @@
+.DS_Store
+cluster.iml
+.terraform
+tf/.terraform.lock.hcl
+tf/terraform.tfstate.backup
+.idea

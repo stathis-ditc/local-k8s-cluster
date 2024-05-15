@@ -1,0 +1,9 @@
+"gatewayAPI":
+  "enabled": true
+"hubble":
+  "relay":
+    "enabled": true
+  "ui":
+    "enabled": true
+"kubeProxyReplacement": true
+
